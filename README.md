@@ -1,3 +1,3 @@
 # Analyze-Memory
 
-This project generates data to understant memory allocations in app.
+This project generates data to understand memory allocations in app.
